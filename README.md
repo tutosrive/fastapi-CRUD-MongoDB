@@ -1,3 +1,6 @@
+> [!WARNING]
+> You needs MongoDB installed! => [Donwload](https://www.mongodb.com/try/download/community)
+
 # FastAPI + MongoDB CRUD (So Basic)
 
 Is my try to learn FastAPI and a little of MongoDB, the APi can:
