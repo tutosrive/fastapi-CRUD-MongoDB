@@ -3,6 +3,8 @@
 
 # FastAPI + MongoDB CRUD (So Basic)
 
+[![wakatime](https://wakatime.com/badge/user/af6e3d3d-e2b5-480d-a492-1fbd9614f9c5/project/a7cf2933-783c-46a8-bceb-734e7cead626.svg)](https://wakatime.com/badge/user/af6e3d3d-e2b5-480d-a492-1fbd9614f9c5/project/a7cf2933-783c-46a8-bceb-734e7cead626)
+
 Is my try to learn FastAPI and a little of MongoDB, the APi can:
 
 - Users CRUD -> Create, Read, Update, Delete
